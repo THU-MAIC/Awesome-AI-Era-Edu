@@ -4,8 +4,8 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 
 ## 📊 Statistics
 
-- **Total Papers**: 178
-- **Last Updated**: 2025-05-25
+- **Total Papers**: 170
+- **Last Updated**: 2025-05-26
 - **Time Coverage**: 2019-2025
 
 ## 📚 Categories
@@ -14,20 +14,20 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 
 #### Model Architecture & Training
 - **Model Architecture & Training**: 35 papers
-- **Evaluation & Benchmarks**: 28 papers
+- **Evaluation & Benchmarks**: 30 papers
 
 ### 🔄 AI+Education Intersection
 
 #### Intelligent Tutoring Systems
-- **Intelligent Tutoring Systems**: 43 papers
-- **Learning Analytics & Student Modeling**: 21 papers
-- **Content Generation & Assessment**: 20 papers
+- **Intelligent Tutoring Systems**: 39 papers
+- **Learning Analytics & Student Modeling**: 19 papers
+- **Content Generation & Assessment**: 19 papers
 
 ### 🎓 Education-Focused
 
 #### Learning Theory & Research
-- **Learning Theory & Research**: 28 papers
-- **Teaching Methods & Practice**: 3 papers
+- **Learning Theory & Research**: 26 papers
+- **Teaching Methods & Practice**: 2 papers
 
 ## 📖 Paper Details
 
@@ -74,7 +74,7 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 
 #### Evaluation & Benchmarks
 <!-- PAPERS_START:ai_evaluation -->
-- **[Towards Responsible Development of Generative Al for Education:An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687)**
+- **[Towards Responsible Development ofGenerative Al for Education:An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687)**
 - **[DrawEduMath: Evaluating Vision Language Models with Expert-Annotated Students' Hand-Drawn Math Images](http://arxiv.org/abs/2501.14877)**
 - **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](https://arxiv.org/abs/2502.09597v1)**
 - **[MathFish🐟: Evaluating Language Model Math Reasoning via Grounding in Educational Curricula](https://arxiv.org/pdf/2408.04226)**
@@ -102,6 +102,7 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 - **[Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors](https://arxiv.org/pdf/2306.17156)**
 - **[ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation](https://arxiv.org/pdf/2409.10244)**
 - **[Teaching Plan Generation and Evaluation With GPT - 4: Unleashing the Potential of LLM in Instructional Design](https://doi.org/10.1109/TLT.2024.3384765)**
+- **[EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large Language Models in Diverse Educational Scenarios](http://arxiv.org/pdf/2505.16160v2)**
 <!-- PAPERS_END:ai_evaluation -->
 
 ### 🔄 AI+Education Intersection
@@ -138,8 +139,7 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 - **[“Let’s Set Up Some Subgoals”: Understanding Human-Pedagogical Agent Collaborations and Their Implications for Learning and Prompt and Feedback Compliance](https://ieeexplore.ieee.org/abstract/document/8051118/)**
 - **[Empowering Private Tutoring by Chaining Large Language Models](https://doi.org/10.48550/arXiv.2309.08112)**
 - **[MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education](https://doi.org/10.48550/arXiv.2404.06711)**
-- **[GPT-4 as a Homework Tutor can Improve Student Engagement
-and Learning Outcome](https://arxiv.org/pdf/2409.15981)**
+- **[GPT-4 as a Homework Tutor can Improve Student Engagement and Learning Outcome](https://arxiv.org/pdf/2409.15981)**
 - **[AI-based learning content generation and learning pathway augmentation to increase learner engagement](https://doi.org/10.1016/j.caeai.2022.100110)**
 - **[LLMs in Education: Novel Perspectives, Challenges, and Opportunities](http://arxiv.org/abs/2409.11917)**
 - **[Teachers’ agency in the era of LLM and generative AI](https://www.jstor.org/stable/10.2307/48754837)**
