@@ -4,8 +4,8 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 
 ## 📊 Statistics
 
-- **Total Papers**: 170
-- **Last Updated**: 2025-05-26
+- **Total Papers**: 173
+- **Last Updated**: 2025-06-09
 - **Time Coverage**: 2019-2025
 
 ## 📚 Categories
@@ -19,8 +19,8 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 ### 🔄 AI+Education Intersection
 
 #### Intelligent Tutoring Systems
-- **Intelligent Tutoring Systems**: 39 papers
-- **Learning Analytics & Student Modeling**: 19 papers
+- **Intelligent Tutoring Systems**: 41 papers
+- **Learning Analytics & Student Modeling**: 20 papers
 - **Content Generation & Assessment**: 19 papers
 
 ### 🎓 Education-Focused
@@ -103,6 +103,8 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 - **[ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation](https://arxiv.org/pdf/2409.10244)**
 - **[Teaching Plan Generation and Evaluation With GPT - 4: Unleashing the Potential of LLM in Instructional Design](https://doi.org/10.1109/TLT.2024.3384765)**
 - **[EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large Language Models in Diverse Educational Scenarios](http://arxiv.org/pdf/2505.16160v2)**
+- **[EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large
+  Language Models in Diverse Educational Scenarios](https://arxiv.org/abs/2505.16160)**
 <!-- PAPERS_END:ai_evaluation -->
 
 ### 🔄 AI+Education Intersection
@@ -148,6 +150,10 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 - **[Empowering Personalized Learning through a Conversation-based Tutoring System with Student Modeling](https://arxiv.org/pdf/2403.14071)**
 - **[Flipped” University: LLM-Assisted Lifelong Learning Environment](https://arxiv.org/abs/2409.10553)**
 - **[GPTeach: Interactive TA Training with GPT-based Students ](https://stanford.edu/~cpiech/bio/papers/GPTeach.pdf )**
+- **[Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination](https://arxiv.org/abs/2409.07372)**
+- **[From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://arxiv.org/abs/2409.03512)**
+- **[Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)**
+- **[Savaal: Scalable Concept-Driven Question Generation to Enhance Human Learning](https://arxiv.org/abs/2502.12477)**
 <!-- PAPERS_END:intersection_systems -->
 
 #### Learning Analytics & Student Modeling
@@ -171,6 +177,7 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 - **[Exploring Knowledge Tracing in Tutor-Student Dialogues](https://arxiv.org/pdf/2409.16490)**
 - **[Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant ](https://dl.acm.org/doi/10.1145/3411764.3445645)**
 - **[Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation](https://arxiv.org/pdf/2405.11591)**
+- **[Educator Attention: How computational tools can systematically identify the distribution of a key resource for students](https://arxiv.org/abs/2502.20135)**
 <!-- PAPERS_END:intersection_analytics -->
 
 #### Content Generation & Assessment
