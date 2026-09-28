@@ -158,6 +158,7 @@ A curated collection of outstanding papers in AI-era education, covering AI appl
 
 #### Learning Analytics & Student Modeling
 <!-- PAPERS_START:intersection_analytics -->
+- **[EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](https://arxiv.org/abs/2606.07948)**
 - **[Leveraging generative artificial intelligence to simulate student learning behavior ](https://arxiv.org/abs/2310.19206)**
 - **[Edu-ConvoKit: An Open-Source Library for Education Conversation Data](https://arxiv.org/pdf/2402.05111)**
 - **[Transformative Influence of LLM and AI Tools in Student Social Media Engagement: Analyzing Personalization, Communication Efficiency, and Collaborative Learning](http://arxiv.org/abs/2407.15012)**
